@@ -1,2 +1,2 @@
 # nyc-housing
-find a houses for investment
+find houses for investment
